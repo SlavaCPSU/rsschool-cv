@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SlavaCPSU.github.io/rsschool-cv/cv
