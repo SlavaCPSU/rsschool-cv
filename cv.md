@@ -4,7 +4,6 @@
 E-mail: v.sharstuk@mail.ru
 
 
-
 GitHub: SlavaCPSU
 
 ### About myself:
