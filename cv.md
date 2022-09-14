@@ -17,6 +17,7 @@ I have extensive experience in the field of economics. I will not describe it in
 * Pascal - long ago;
 * Excel - very good.
 
+
 ### Code examples:
 
 
