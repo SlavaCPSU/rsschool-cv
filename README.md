@@ -1,1 +1,1 @@
-https://SlavaCPSU.github.io/rsschool-cv/cv
+https://SlavaCPSU.github.io/rsschool-cv/
